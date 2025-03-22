@@ -1,0 +1,15 @@
+# Ignore virtual environments
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore model files (if large)
+model.pkl
+
+# Ignore environment variables
+.env
+
+# Ignore log files
+*.log
